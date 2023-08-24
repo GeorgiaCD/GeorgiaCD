@@ -3,8 +3,17 @@
 </div>
 
 
-# Welcome to my Github 
-## 
+# Welcome to my Github 👋
+## A little about me
+I am a Mathemathics graduate with a keen interest in building, both in code and lego! 
+
+I bridge the gap between mathematics and software development to create elegant, functional solutions. My curiosity for data's hidden stories drives my interest in data analysis. 
+
+I am currently enrolled in a 13-week Software Engineering Bootcamp! This comprehensive program is designed to elevate participants from technological curiosity to proficient Full-Stack Software Engineers. 
+
+Alongside this I am conducting a research study which seeks to investigate the potential relationship between individuals' established habits and their perceived mood levels. I hope to leverage my finding and translate it into the development of a purposeful application.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgia-crawford-dellar-b12a00189/) 
 
 
 # GitHub Stats:
@@ -13,7 +22,8 @@
 </div>
 
 
-
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 
 <div>
