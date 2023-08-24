@@ -1,4 +1,3 @@
-![Banner](https://www.exeter.ac.uk/media/universityofexeter/aboutusresponsive/images/streatham_aerial_2016.jpg)
 # Welcome to my Github 
 ## 
 
