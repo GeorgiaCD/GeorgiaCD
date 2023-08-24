@@ -1,4 +1,4 @@
-![My Banner](https://www.pinterest.ca/pin/672373419391658403)
+![My Banner]([https://www.pinterest.ca/pin/672373419391658403](https://i.pinimg.com/564x/47/fc/ba/47fcbac081e389cba056a1544dd2b7c3.jpg))
 # Welcome to my Github 
 ## 
 
