@@ -1,4 +1,8 @@
-![My Banner]([https://www.pinterest.ca/pin/672373419391658403](https://i.pinimg.com/564x/47/fc/ba/47fcbac081e389cba056a1544dd2b7c3.jpg))
+<div style="width: 100%; overflow: hidden;">
+    <img src="https://i.pinimg.com/564x/21/2e/e6/212ee600a927a61735905b4e025f00b2.jpg" alt="Banner" style="width: 100%; object-fit: cover;">
+</div>
+
+
 # Welcome to my Github 
 ## 
 
