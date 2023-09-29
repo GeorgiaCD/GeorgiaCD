@@ -9,7 +9,7 @@ I am a Mathemathics graduate with a keen interest in building, both in code and 
 
 I bridge the gap between mathematics and software development to create elegant, functional solutions. My curiosity for data's hidden stories drives my interest in data analysis. 
 
-I am currently enrolled in a 13-week Software Engineering Bootcamp! This comprehensive program is designed to elevate participants from technological curiosity to proficient Full-Stack Software Engineers. 
+Ive recently graduated from a 13-week Software Engineering Bootcamp! This comprehensive program is designed to elevate participants from technological curiosity to proficient Full-Stack Software Engineers. 
 
 Alongside this, I am conducting a research study which seeks to investigate the potential relationship between individuals' established habits and their perceived mood levels. I hope to leverage my finding and translate it into the development of a purposeful application.
 
