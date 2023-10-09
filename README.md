@@ -13,6 +13,8 @@ In September 2023 I completed a 13-week Software Engineering Bootcamp! This comp
 
 Alongside this, I am conducting a research study which seeks to investigate the potential relationship between individuals' established habits and their perceived mood levels. I hope to leverage my finding and translate it into the development of a purposeful application.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgia-crawford-dellar-b12a00189/) 
+
 
 <h3>Tech skills</h3>
 <ul>
@@ -44,7 +46,6 @@ Alongside this, I am conducting a research study which seeks to investigate the 
 </ul>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgia-crawford-dellar-b12a00189/) 
 
 
 ### GitHub Stats:
