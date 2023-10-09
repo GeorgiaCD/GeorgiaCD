@@ -3,27 +3,38 @@
 </div>
 
 
-# Welcome to my Github 👋
-## A little about me
-I am a Mathemathics graduate with a keen interest in building, both in code and lego! 
+## Welcome to my Github 👋
 
-I bridge the gap between mathematics and software development to create elegant, functional solutions. My curiosity for data's hidden stories drives my interest in data analysis. 
+### A little about me
+I graduated in September 2022 with a first class in Mathemathics with Economics.
 
-Ive recently graduated from a 13-week Software Engineering Bootcamp! This comprehensive program is designed to elevate participants from technological curiosity to proficient Full-Stack Software Engineers. 
+In September 2023 I completed a 13-week Software Engineering Bootcamp! This comprehensive program was designed to elevate participants from technological curiosity to proficient Full-Stack Software Engineers. 
+
 
 Alongside this, I am conducting a research study which seeks to investigate the potential relationship between individuals' established habits and their perceived mood levels. I hope to leverage my finding and translate it into the development of a purposeful application.
+
+<h3>Tech skills</h3>
+Java | SQL (MySQL, PostgreSQL) | HTML | CSS | JavaScript | Spring Boot | React | RESTful API | Node.js | Material UI | Unit Testing |
+Git |Test Driven Development | Object-Oriented Programming | Agile Methodology | Unit Testing |
+
+<h4> Technologies </h4>
+<ul>
+<li> IntelliJ IDEA </li>  
+<li> Postman </li> 
+<li> Postico </li> 
+<li> Visual Studio Code </li> 
+</ul>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgia-crawford-dellar-b12a00189/) 
 
 
-# GitHub Stats:
+### GitHub Stats:
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaCD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 
 <div style="display: flex; gap: 10px;">
@@ -36,6 +47,8 @@ Alongside this, I am conducting a research study which seeks to investigate the 
 <br>
 
 
+#### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 
 
