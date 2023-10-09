@@ -13,9 +13,27 @@ In September 2023 I completed a 13-week Software Engineering Bootcamp! This comp
 
 Alongside this, I am conducting a research study which seeks to investigate the potential relationship between individuals' established habits and their perceived mood levels. I hope to leverage my finding and translate it into the development of a purposeful application.
 
+
 <h3>Tech skills</h3>
-Java | SQL (MySQL, PostgreSQL) | HTML | CSS | JavaScript | Spring Boot | React | RESTful API | Node.js | Material UI | Unit Testing |
-Git |Test Driven Development | Object-Oriented Programming | Agile Methodology | Unit Testing |
+<ul>
+    <li>Java</li>
+    <li>SQL (MySQL, PostgreSQL)</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Git</li>
+    <li>React.js</li>
+    <li>Node.js</li>
+    <li>Material UI</li>
+    <li>RESTful API</li>
+    <li>Spring Boot</li>
+    <li>Unit Testing</li>
+    <li>Test Driven Development</li>
+    <li>Object-Oriented Programming</li>
+    <li>Agile Methodology</li>
+</ul>
+
+
 
 <h4> Technologies </h4>
 <ul>
